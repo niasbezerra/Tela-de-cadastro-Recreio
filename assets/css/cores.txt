@@ -1,0 +1,4 @@
+vermelho #ff3847
+azul #75c7fb
+azulescuro #233e54
+creme #fff5de
